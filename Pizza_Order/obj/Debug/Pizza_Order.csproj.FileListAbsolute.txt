@@ -1,0 +1,30 @@
+C:\Users\Admin\source\repos\Pizza_Order\Pizza_Order\bin\Debug\Pizza_Order.exe.config
+C:\Users\Admin\source\repos\Pizza_Order\Pizza_Order\bin\Debug\Pizza_Order.exe
+C:\Users\Admin\source\repos\Pizza_Order\Pizza_Order\bin\Debug\Pizza_Order.pdb
+C:\Users\Admin\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.frmPizzaOrder.resources
+C:\Users\Admin\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.Properties.Resources.resources
+C:\Users\Admin\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.exe
+C:\Users\Admin\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.pdb
+D:\Mohammed Abu_Hadhoud\C# Course\Projects\Pizza Project\My Solution\Pizza_Order\Pizza_Order\bin\Debug\Pizza_Order.exe.config
+D:\Mohammed Abu_Hadhoud\C# Course\Projects\Pizza Project\My Solution\Pizza_Order\Pizza_Order\bin\Debug\Pizza_Order.exe
+D:\Mohammed Abu_Hadhoud\C# Course\Projects\Pizza Project\My Solution\Pizza_Order\Pizza_Order\bin\Debug\Pizza_Order.pdb
+D:\Mohammed Abu_Hadhoud\C# Course\Projects\Pizza Project\My Solution\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.csprojAssemblyReference.cache
+D:\Mohammed Abu_Hadhoud\C# Course\Projects\Pizza Project\My Solution\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.frmPizzaOrder.resources
+D:\Mohammed Abu_Hadhoud\C# Course\Projects\Pizza Project\My Solution\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.Properties.Resources.resources
+D:\Mohammed Abu_Hadhoud\C# Course\Projects\Pizza Project\My Solution\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.csproj.GenerateResource.cache
+D:\Mohammed Abu_Hadhoud\C# Course\Projects\Pizza Project\My Solution\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.csproj.CoreCompileInputs.cache
+D:\Mohammed Abu_Hadhoud\C# Course\Projects\Pizza Project\My Solution\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.exe
+D:\Mohammed Abu_Hadhoud\C# Course\Projects\Pizza Project\My Solution\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.pdb
+C:\My Projects\WinForms Applications\Pizza_Order\Pizza_Order\bin\Debug\Pizza_Order.exe.config
+C:\My Projects\WinForms Applications\Pizza_Order\Pizza_Order\bin\Debug\Pizza_Order.exe
+C:\My Projects\WinForms Applications\Pizza_Order\Pizza_Order\bin\Debug\Pizza_Order.pdb
+C:\My Projects\WinForms Applications\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.csprojAssemblyReference.cache
+C:\My Projects\WinForms Applications\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.frmPizzaOrder.resources
+C:\My Projects\WinForms Applications\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.Properties.Resources.resources
+C:\My Projects\WinForms Applications\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.csproj.GenerateResource.cache
+C:\My Projects\WinForms Applications\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.csproj.CoreCompileInputs.cache
+C:\My Projects\WinForms Applications\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.exe
+C:\My Projects\WinForms Applications\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.pdb
